@@ -4,7 +4,7 @@ Setup and Installation
 
 Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/kotresh-h/myapp.git
 cd user-management-app
 
 Install dependencies:
